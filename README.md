@@ -1,2 +1,2 @@
-# pi-web-server
-Repository for my Raspberry Pi 3 B+ web server using Node.js
+# first-node-project
+Learning Node.js for the first time!
